@@ -11,9 +11,9 @@ def odd(n: int) -> bool:
     return n % 2 != 0
 
 
-def main():  # type: ignore
-    print(odd("Hello, world!"))  # type: ignore
+def main():  
+    print(odd("Hello, world!"))  
 
 
 if __name__ == "__main__":
-    main()  # type: ignore
+    main()  
