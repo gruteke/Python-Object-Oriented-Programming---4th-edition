@@ -15,3 +15,9 @@ class Point:
 
     def reset(self) -> None:
         self.move(0, 0)
+
+p1=Point(5,10)
+p2=Point()
+print(p1.x)
+p1.reset()
+print(p1.x)
