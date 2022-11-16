@@ -190,3 +190,5 @@ Chapters and Case Study Content
     
 14. Concurrency.
     Compressing image files using Run-Length Encoding.
+
+    Update RG
